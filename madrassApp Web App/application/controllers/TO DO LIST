@@ -1,0 +1,71 @@
+TO DO LIST
+LIEN MODIFS EMAIL ENTRE USERS ET ETUDIANTS
+email non modifiable front end CURRENT
+
+LISTER FONCTIONNALITES
+PRINCIPALES
+
+ACCES ADMIN
+	LISTE ETUDIANTS
+	LISTE INSCRIPTIONS ETUDIANTS
+	LISTE NOTES ETUDIANTS
+	LISTE DOCUMENTS ETUDIANTS
+
+	LISTE ENSEIGNANTS
+	LISTE FILIERES
+	LISTES MATIERES
+
+
+								DESIGN OPERATIONNEL
+								LANCER VERSION ALPHA TEST FONCTIONNELLE
+------------------------------------------------------------------------------------------
+annee scolaire PRESENTATION /
+Generer DOCUMENTS
+			INSCRIPTION ATTESTATION - SCOLARITE
+			BULLETIN DE NOTES
+IMPORTANCE ADMIN
+table Administrateur
+
+
+
+
+MON EMPLOI DU TEMPS
+GESTIONS DES INSCIPTIONS
+
+TEACHER NOTE
+
+
+SUPPRIMER USERS ID APRES DELETE STUDENT TEACHER
+
+DATABASE DONNEES
+
+AMELIORER ERREUR BUGS
+
+VERIF SECURITE
+
+ACCESS PARENTS
+ABSENCE
+EMPLOI TU TEMPS
+CAHIER DE TEXTE
+
+MESSAGERIE
+
+
+DATATABLE
+GROCERY CRUD
+FPDF
+------------------------------
+VERSION 23/07/18
+
+MAIN MODIFS
+
+autoload
+package & helpers
+
+
+
+----------------------
+liens 
+    <td> <a href="<?= // base_url('Notedby/addnote') ?>/<?= //$letudiant['idStudent'] ?>" class="btn btn-primary">Ajouter une note</a></td>
+    <td><a href="<?= // base_url('Notedby/fiche') ?>/<?= // $letudiant['idStudent'] ?>" class="btn btn-warning">Voir le bulletin</a></td>
+    --------------------------------

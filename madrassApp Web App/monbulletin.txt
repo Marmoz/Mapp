@@ -1,0 +1,22 @@
+array (
+  0 => 
+  array (
+    'nomStudent' => 'Hamza',
+    'prenomStudent' => 'Hamza',
+    'nomMatiere' => 'Culture Gle',
+    'nomTeacher' => 'Max',
+    'note_S1' => '10',
+    'note_S2' => '10',
+    'note_Finale' => '10',
+  ),
+  1 => 
+  array (
+    'nomStudent' => 'Hamza',
+    'prenomStudent' => 'Hamza',
+    'nomMatiere' => 'Anglais',
+    'nomTeacher' => 'Ruth',
+    'note_S1' => '15',
+    'note_S2' => '15',
+    'note_Finale' => '15',
+  ),
+)

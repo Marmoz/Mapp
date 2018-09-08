@@ -1,0 +1,40 @@
+body {
+   padding-top: 100px;
+
+}
+
+.navbar {
+	background-color: #f0bc5e;
+}
+
+.zefooter {
+	color: black;
+	background-color: #f0bc5e;
+	margin-top: 50px;
+	padding-top: 15px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.homeadmin{
+	text-align: center;
+}
+.homeadmin img{
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+
+.homeadmin p{
+	font-size: 1.2em;
+	margin-bottom: 30px;
+}
+
+    
+a[role='button']{
+ margin: 15px;
+}
+
+td, th {
+    padding: 5px 10px;
+    margin : 5px 10px;
+}
